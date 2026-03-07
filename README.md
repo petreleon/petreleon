@@ -18,7 +18,9 @@
 
 ### 👨‍💻 A Bit About Me
 
-<img align="right" width="220" src="assets/greeting_robot_icon.png" alt="Greeting Robot" />
+<div align="center">
+  <img width="180" src="assets/greeting_robot_icon.png" alt="Greeting Robot" />
+</div>
 
 I'm a **Software Engineer** specializing in **Rust** and backend development, bridging traditional infrastructure with Web3 systems. I care deeply about clean architecture, scalable microservices, and reliable performance.
 
