@@ -38,7 +38,7 @@ I'm a **Software Engineer** specializing in **Rust** and backend development, br
   <br/><b>Backend & Databases</b><br><br>
   <img src="https://skillicons.dev/icons?i=postgres,redis,nodejs&theme=dark" alt="Backend" /><br>
   <br/><b>Infrastructure & Web3</b><br><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ethereum,bash&theme=dark" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash&theme=dark" alt="DevOps" />
 </div>
 
 <br/>
