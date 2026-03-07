@@ -65,11 +65,7 @@ I am a Software Engineer specializing in **Rust** and backend development. My fo
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=petreleon&theme=nord&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
+## 📈 Profile Statistics
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=petreleon&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
