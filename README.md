@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=250&section=header&text=Petre%20Leonard%20Macamete&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Rust%20%7C%20Backend&descAlignY=55&descAlign=62" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Petre%20Leonard%20Macamete&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Rust%20%7C%20Backend&descAlignY=55&descAlign=62" alt="Header Banner" />
 </div>
 
 <div align="center">
