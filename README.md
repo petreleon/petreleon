@@ -68,8 +68,8 @@ I am a Software Engineer specializing in **Rust** and backend development. My fo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=petreleon&show_icons=true&theme=nord" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petreleon&layout=compact&theme=nord" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=petreleon&show_icons=true&theme=nord" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=petreleon&layout=compact&theme=nord" alt="Top Languages" />
 </div>
 
 <div align="center">
