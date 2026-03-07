@@ -18,7 +18,7 @@
 
 ### 👨‍💻 A Bit About Me
 
-<img align="right" width="220" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi animation" />
+<img align="right" width="220" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.png" onerror="this.src='https://em-content.zobj.net/source/apple/354/waving-hand_1f44b.png'" alt="Hi image" />
 
 I'm a **Software Engineer** specializing in **Rust** and backend development, bridging traditional infrastructure with Web3 systems. I care deeply about clean architecture, scalable microservices, and reliable performance.
 
