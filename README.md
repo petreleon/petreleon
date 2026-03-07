@@ -68,7 +68,7 @@ I am a Software Engineer specializing in **Rust** and backend development. My fo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=petreleon&theme=nord" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=petreleon&theme=nord&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
