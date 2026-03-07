@@ -18,18 +18,14 @@
 
 ### 👨‍💻 A Bit About Me
 
+<img align="right" width="180" src="assets/greeting_robot_icon.png" alt="Greeting Robot" />
+
 I'm a **Software Engineer** specializing in **Rust** and backend development, bridging traditional infrastructure with Web3 systems. I care deeply about clean architecture, scalable microservices, and reliable performance.
 
 - ⚙️ **Currently focused on:** Decentralized applications and robust backends.
 - 🌱 **Deepening knowledge in:** Model Context Protocol (MCP) and distributed systems.
 - 🤝 **Looking for:** Open-source collaborations, networking, and challenging backend engineering roles.
 - 🧩 **Hobbies:** Chess, Piano, Logic Puzzles, and Competitive Programming (Advent of Code).
-
-<br/>
-
-<div align="center">
-  <img width="180" src="assets/greeting_robot_icon.png" alt="Greeting Robot" />
-</div>
 
 <br/>
 
